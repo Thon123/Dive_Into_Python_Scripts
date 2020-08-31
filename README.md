@@ -1,9 +1,3 @@
-# Dive_Into_Python_skripta_CZ
-Celý kurz se skládá ze 4 částí:<br>
-A - Funkční cca 45h<br>
-B - Iterátory, generátory 30h<br>
-C - Dictionary a mapy 25h<br>
-D - OOP cca 35h<br>
+# Dive_Into_Python_scripts_CZ 
 
-Vypracování dle přednášek a code části v Jupyter Notebooku.
-
+Pokročilý Python neboli "UNDER THE HOOD", bohužel nemám čas prozatím dodat všechny části. Jedná se o cca 36 kapitol, které rozeberou Python do nejmenší cihličky. Nejlepší materiál, jedná se o sérii Python Deep Dive od Freda Baptisty a upřímně se jedná o nejlepší studijní materiál se kterým jsem měl tu čest se setkat. Nicméně délka přednášek je 140h, takže nemám vše vypracované. Navíc čeština je pro GitHub nevhodná, takže budu všechny současné kapitoly nejdříve předělávat do AJ. Délka celkových skript se poté odhaduje na cca 900 stran.
